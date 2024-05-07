@@ -73,7 +73,7 @@ export default function RequestDetails() {
 					</SheetTitle>
 				</SheetHeader>
 				<SheetDescription>
-					<div className="flex h-full w-full flex-col overflow-y-scroll">
+					<div className="flex h-full w-full flex-col overflow-y-scroll" style="height:88hv">
 						<div className="relative py-6 flex-1 flex flex-col gap-3">
 							<div className="flex items-start flex-wrap gap-3">
 								<TagItem
